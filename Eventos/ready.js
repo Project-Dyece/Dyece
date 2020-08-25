@@ -2,7 +2,7 @@ module.exports = async (client) => {
 
 
   console.log(`Logado como ${client.user.tag}! (${client.user.id})`);
-	client.guilds.cache.find((a) => a.id === '747643336185348268').channels.cache.find((a) => a.id === '747922393623691356').send(`Online!`);
+	client.guilds.cache.find((a) => a.id === '747643336185348268').channels.cache.find((a) => a.id === '747922393623691356').send(`Estou online!`);
 	setInterval(async () => {
 	let users = client.users.cache.size - 1;
 

@@ -48,9 +48,9 @@ setInterval(async () => {
 //cria um client do Comando
 const donos = new Set();
   donos.add('380512056413257729');
-  donos.add('348664615175192577');
+  donos.add('395592015611428864');
 const client = new CommandoClient({
-	commandPrefix: 't//',
+	commandPrefix: 'd?',
 	unknownCommandResponse: false,
 	owner: donos,
 	disableEveryone: true
@@ -101,4 +101,4 @@ evtFiles.forEach(f => {
 	});
 
 //login && token
-client.login('NzQ3NjA2Njc4OTU0MDQ5NTc3.X0RU-g.JmP7SxskBVrGLypOmyDU6mVNu0c');
+client.login(process.env.DISCORD_AUTH_TOKEN);
