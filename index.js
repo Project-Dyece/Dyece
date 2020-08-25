@@ -101,4 +101,4 @@ evtFiles.forEach(f => {
 	});
 
 //login && token
-client.login('NzQ3NjA2Njc4OTU0MDQ5NTc3.X0RU-g.JmP7SxskBVrGLypOmyDU6mVNu0c');
+client.login(process.env.DISCORD_AUTH_TOKEN);
