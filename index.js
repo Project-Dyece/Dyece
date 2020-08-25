@@ -50,7 +50,7 @@ const donos = new Set();
   donos.add('380512056413257729');
   donos.add('395592015611428864');
 const client = new CommandoClient({
-	commandPrefix: 't//',
+	commandPrefix: 'd?',
 	unknownCommandResponse: false,
 	owner: donos,
 	disableEveryone: true
