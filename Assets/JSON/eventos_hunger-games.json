@@ -1,163 +1,163 @@
 {
 	"bloodbath": [
 		{
-			"text": "(Player1) grabs a shovel.",
+			"text": "(Player1) Pega uma pá.",
 			"tributos": 1,
 			"deaths": [],
 			"killers": []
 		},
 		{
-			"text": "(Player1) grabs a backpack e retreats.",
+			"text": "(Player1) Pega uma mochila e se retira.",
 			"tributos": 1,
 			"deaths": [],
 			"killers": []
 		},
 		{
-			"text": "(Player1) e (Player2) fight for a bag. (Player1) gives up e retreats.",
+			"text": "(Player1) e (Player2) Luta por uma bolsa. (Player1) desiste e se retira.",
 			"tributos": 2,
 			"deaths": [],
 			"killers": []
 		},
 		{
-			"text": "(Player1) e (Player2) fight for a bag. (Player2) gives up e retreats.",
+			"text": "(Player1) e (Player2) Luta por uma bolsa. (Player2) desiste e se retira.",
 			"tributos": 2,
 			"deaths": [],
 			"killers": []
 		},
 		{
-			"text": "(Player1) finds a bow, some arrows, e a quiver.",
+			"text": "(Player1) Encontra um arco, algumas flechas e uma aljava.",
 			"tributos": 1,
 			"deaths": [],
 			"killers": []
 		},
 		{
-			"text": "(Player1) runs into the cornucopia e hides.",
+			"text": "(Player1) Corre para a cornucópia e se esconde.",
 			"tributos": 1,
 			"deaths": [],
 			"killers": []
 		},
 		{
-			"text": "(Player1) takes a handful of throwing knives.",
+			"text": "(Player1) Pega um punhado de facas para arremesso.",
 			"tributos": 1,
 			"deaths": [],
 			"killers": []
 		},
 		{
-			"text": "(Player1) rips a mace out of (Player2)'s hands.",
+			"text": "(Player1) Rouba uma maçã de (Player2).",
 			"tributos": 2,
 			"deaths": [],
 			"killers": []
 		},
 		{
-			"text": "(Player1) finds a canteen full of water.",
+			"text": "(Player1) Encontra uma cantina cheia de água.",
 			"tributos": 1,
 			"deaths": [],
 			"killers": []
 		},
 		{
-			"text": "(Player1) stays at the cornucopia for resources.",
+			"text": "(Player1) Fica na cornucópia por recursos.",
 			"tributos": 1,
 			"deaths": [],
 			"killers": []
 		},
 		{
-			"text": "(Player1) gathers as much food as they can.",
+			"text": "(Player1) Reúne o máximo de comida que podem.",
 			"tributos": 1,
 			"deaths": [],
 			"killers": []
 		},
 		{
-			"text": "(Player1) grabs a sword.",
+			"text": "(Player1) Pega uma espada.",
 			"tributos": 1,
 			"deaths": [],
 			"killers": []
 		},
 		{
-			"text": "(Player1) takes a spear from inside the cornucopia.",
+			"text": "(Player1) Pega uma lança de dentro da cornucópia.",
 			"tributos": 1,
 			"deaths": [],
 			"killers": []
 		},
 		{
-			"text": "(Player1) finds a bag full of explosives.",
+			"text": "(Player1) Encontra uma bolsa cheia de explosivos.",
 			"tributos": 1,
 			"deaths": [],
 			"killers": []
 		},
 		{
-			"text": "(Player1) clutches a first aid kit e runs away.",
+			"text": "(Player1) Agarra um kit de primeiros socorros e foge.",
 			"tributos": 1,
 			"deaths": [],
 			"killers": []
 		},
 		{
-			"text": "(Player1) takes a sickle from inside the cornucopia.",
+			"text": "(Player1) Pega uma foice de dentro da cornucópia.",
 			"tributos": 1,
 			"deaths": [],
 			"killers": []
 		},
 		{
-			"text": "(Player1), (Player2), e (Player3) work together to get as many supplies as possible.",
+			"text": "(Player1), (Player2), e (Player3) Trabalham junto para pegar o máximo de recursos possíveis.",
 			"tributos": 3,
 			"deaths": [],
 			"killers": []
 		},
 		{
-			"text": "(Player1) runs away with a lighter e some rope.",
+			"text": "(Player1) Foge com um isqueiro e algumas cordas.",
 			"tributos": 1,
 			"deaths": [],
 			"killers": []
 		},
 		{
-			"text": "(Player1) snatches a bottle of alcohol e a rag.",
+			"text": "(Player1) Pega uma garrafa de álcool e um pano.",
 			"tributos": 1,
 			"deaths": [],
 			"killers": []
 		},
 		{
-			"text": "(Player1) finds a backpack full of camping equipment.",
+			"text": "(Player1) Encontra uma mochila cheio de itens de acampamento.",
 			"tributos": 1,
 			"deaths": [],
 			"killers": []
 		},
 		{
-			"text": "(Player1) grabs a backpack, not realizing it is empty.",
+			"text": "(Player1) Pega uma mochila, sem perceber que a mesma está vazia.",
 			"tributos": 1,
 			"deaths": [],
 			"killers": []
 		},
 		{
-			"text": "(Player1) breaks (Player2)'s nose for a basket of bread.",
+			"text": "(Player1) Quebra o nariz de (Player2)  por uma cesta de pão.",
 			"tributos": 2,
 			"deaths": [],
 			"killers": []
 		},
 		{
-			"text": "(Player1), (Player2), (Player3), e (Player4) share everything they gathered before running.",
+			"text": "(Player1), (Player2), (Player3), e (Player4) Compartilham tudo que eles reuniram antes de fugir.",
 			"tributos": 4,
 			"deaths": [],
 			"killers": []
 		},
 		{
-			"text": "(Player1) retrieves a trident from inside the cornucopia.",
+			"text": "(Player1) Pega um tridente dentro da cornucópia.",
 			"tributos": 1,
 			"deaths": [],
 			"killers": []
 		},
 		{
-			"text": "(Player1) grabs a jar of fishing bait while (Player2) gets fishing gear.",
+			"text": "(Player1) Pega uma jarra de isca de pesca enquanto (Player2) obtém equipamento de pesca.",
 			"tributos": 2,
 			"deaths": [],
 			"killers": []
 		},
 		{
-			"text": "(Player1) scares (Player2) away from the cornucopia.",
+			"text": "(Player1) Assusta (Player2) longe da cornucópia.",
 			"tributos": 2,
 			"deaths": [],
 			"killers": []
 		},
 		{
-			"text": "(Player1) grabs a shield leaning on the cornucopia.",
+			"text": "(Player1) Pega um escudo apoiado na cornucópia.",
 			"tributos": 1,
 			"deaths": [],
 			"killers": []
