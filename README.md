@@ -10,13 +10,12 @@
     <a href="http://mpago.la/1eRoTD2"><img src="https://img.shields.io/badge/doar-MercPago-00ced1" alt="MercadoPago" /></a>
     <a href="https://discord.com/api/oauth2/authorize?client_id=747606678954049577&permissions=8&scope=bot"><img src="https://img.shields.io/badge/convidar-bot-yellow" alt="Convite" /></a>
   </p>
+  <i>Logo feita por Call#0615</i><br>
 </div>
 
 Aqui vocês encontram a source do bot para Discord, Dyece<br>
 Deseja adiciona-lo ao seu servidor? clique [aqui](https://discord.com/api/oauth2/authorize?client_id=747606678954049577&permissions=8&scope=bot).
 
-> `Deseja falar com os desenvolvedores ou perguntar algo?` entre [aqui](https://discord.gg/QUpr3ZR). Reporte bugs clicando [aqui](https://github.com/Project-Dyece/Dyece/issues)<br><br> 
+> `Deseja falar com os desenvolvedores ou perguntar algo?` entre [aqui](https://discord.gg/QUpr3ZR).<br> Reporte bugs clicando [aqui](https://github.com/Project-Dyece/Dyece/issues)<br>
 
-
-
-Dyece é um bot simples do Discord, com comandos de economia, diversão e moderação, <b>Dyece irá trazer entretenimento para os membros de seu servidor</b>, <u>adicione ao seu servidor e divirta-se!</u>
+Dyece é um bot simples do Discord, com comandos de economia, diversão e moderação, <b>Dyece irá trazer entretenimento para os membros de seu servidor</b>, adicione ao seu servidor e divirta-se!
