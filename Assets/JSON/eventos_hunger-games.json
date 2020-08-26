@@ -163,331 +163,331 @@
 			"killers": []
 		},
 		{
-			"text": "(Player1) snatches a pair of sais.",
+			"text": "(Player1) Pega um punhado de sal.",
 			"tributos": 1,
 			"deaths": [],
 			"killers": []
 		},
 		{
-			"text": "(Player1) grabs a lone pair of pants.",
+			"text": "(Player1) Pega um único par de calças.",
 			"tributos": 1,
 			"deaths": [],
 			"killers": []
 		},
 		{
-			"text": "(Player1) steps off their podium too soon e blows up.",
+			"text": "(Player1) Sai do pódio cedo demais e explode.",
 			"tributos": 1,
 			"deaths": [1],
 			"killers": []
 		},
 		{
-			"text": "(Player1) throws a knife into (Player2)'s head.",
+			"text": "(Player1) Joga uma faca na cabeça do (Player2).",
 			"tributos": 2,
 			"deaths": [2],
 			"killers": [1]
 		},
 		{
-			"text": "(Player1) accidently steps on a landmine.",
+			"text": "(Player1) Acidentalmente pisa em uma mina terrestre.",
 			"tributos": 1,
 			"deaths": [1],
 			"killers": []
 		},
 		{
-			"text": "(Player1) catches (Player2) off guard e kills them.",
+			"text": "(Player1) Pega (Player2) desprevinido e o mata.",
 			"tributos": 2,
 			"deaths": [2],
 			"killers": [1]
 		},
 		{
-			"text": "(Player1) e (Player2) work together to drown (Player3).",
+			"text": "(Player1) e (Player2) trabalham juntos para afogar (Player3).",
 			"tributos": 3,
 			"deaths": [3],
 			"killers": [1, 2]
 		},
 		{
-			"text": "(Player1) strangles (Player2) after engaging in a fist fight.",
+			"text": "(Player1) estrangula (Player2) depois de brigarem.",
 			"tributos": 2,
 			"deaths": [2],
 			"killers": [1]
 		},
 		{
-			"text": "(Player1) shoots an arrow into (Player2)'s head.",
+			"text": "(Player1) atira uma flecha em (Player2).",
 			"tributos": 2,
 			"deaths": [2],
 			"killers": [1]
 		},
 		{
-			"text": "(Player1) cannot handle the circumstances e commits suicide.",
+			"text": "(Player1) Não aguenta as circunstancias e comete suicídio.",
 			"tributos": 1,
 			"deaths": [1],
 			"killers": []
 		},
 		{
-			"text": "(Player1) bashes (Player2)'s head against a rock several times.",
+			"text": "(Player1) Bate a cabeça de (Player2) contra uma pedra várias vezes.",
 			"tributos": 2,
 			"deaths": [2],
 			"killers": [1]
 		},
 		{
-			"text": "(Player1) snaps (Player2)'s neck.",
+			"text": "(Player1) Aperta o pescoço de (Player2).",
 			"tributos": 2,
 			"deaths": [2],
 			"killers": [1]
 		},
 		{
-			"text": "(Player1) decapitates (Player2) with a sword.",
+			"text": "(Player1) Decapita (Player2) com uma espada.",
 			"tributos": 2,
 			"deaths": [2],
 			"killers": [1]
 		},
 		{
-			"text": "(Player1) spears (Player2) in the abdomen.",
+			"text": "(Player1) Perfura (Player2) no abdomen com uma lança.",
 			"tributos": 2,
 			"deaths": [2],
 			"killers": [1]
 		},
 		{
-			"text": "(Player1) sets (Player2) on fire with a molotov.",
+			"text": "(Player1) Coloca fogo em (Player2) com um coquetel motolov.",
 			"tributos": 2,
 			"deaths": [2],
 			"killers": [1]
 		},
 		{
-			"text": "(Player1) falls into a pit e dies.",
+			"text": "(Player1) Cai em um buraco e morre.",
 			"tributos": 1,
 			"deaths": [1],
 			"killers": []
 		},
 		{
-			"text": "(Player1) stabs (Player2) while their back is turned.",
+			"text": "(Player1) Esfaqueia (Player2) enquanto o mesmo estava de costa.",
 			"tributos": 2,
 			"deaths": [2],
 			"killers": [1]
 		},
 		{
-			"text": "(Player1) severely injures (Player2), but puts them out of their misery.",
+			"text": "(Player1) Fere gravemente (Player2), mas o tira de seu sofrimento.",
 			"tributos": 2,
 			"deaths": [2],
 			"killers": [1]
 		},
 		{
-			"text": "(Player1) severely injures (Player2) e leaves them to die.",
+			"text": "(Player1) Fere gravemente (Player2) e o deixa morrer.",
 			"tributos": 2,
 			"deaths": [2],
 			"killers": [1]
 		},
 		{
-			"text": "(Player1) bashes (Player2)'s head in with a mace.",
+			"text": "(Player1) Golpeia a cabeça de (Player2) com uma maçã.",
 			"tributos": 2,
 			"deaths": [2],
 			"killers": [1]
 		},
 		{
-			"text": "(Player1) pushes (Player2) off a cliff during a knife fight.",
+			"text": "(Player1) Empurra (Player2) de um penhasco durante uma luta de facas.",
 			"tributos": 2,
 			"deaths": [2],
 			"killers": [1]
 		},
 		{
-			"text": "(Player1) throws a knife into (Player2)'s chest.",
+			"text": "(Player1) Joga uma faca no peito de (Player2).",
 			"tributos": 2,
 			"deaths": [2],
 			"killers": [1]
 		},
 		{
-			"text": "(Player1) is unable to convince (Player2) to not kill them.",
+			"text": "(Player1) É Incapaz de convencer (Player2) a não se matar.",
 			"tributos": 2,
 			"deaths": [1],
 			"killers": [2]
 		},
 		{
-			"text": "(Player1) convinces (Player2) to not kill them, only to kill (Player2) instead.",
+			"text": "(Player1) Convence (Player2) a não se matar, somente para matar (Player2) depois.",
 			"tributos": 2,
 			"deaths": [2],
 			"killers": [1]
 		},
 		{
-			"text": "(Player1) falls into a frozen lake e drowns.",
+			"text": "(Player1) Cai em um lago gelado e se afoga.",
 			"tributos": 1,
 			"deaths": [1],
 			"killers": []
 		},
 		{
-			"text": "(Player1), (Player2), e (Player3) start fighting, but (Player2) runs away as (Player1) kills (Player3).",
+			"text": "(Player1), (Player2), e (Player3) Começam, mas (Player2) foge, e (Player1) mata (Player3).",
 			"tributos": 3,
 			"deaths": [3],
 			"killers": [1]
 		},
 		{
-			"text": "(Player1) kills (Player2) with their own weapon.",
+			"text": "(Player1) Mata (Player2) com sua própria arma.",
 			"tributos": 2,
 			"deaths": [2],
 			"killers": [1]
 		},
 		{
-			"text": "(Player1) overpowers (Player2), killing them.",
+			"text": "(Player1) Domina (Player2) e o mata.",
 			"tributos": 2,
 			"deaths": [2],
 			"killers": [1]
 		},
 		{
-			"text": "(Player1) arma um explosivo, matando (Player2).",
+			"text": "(Player1) Arma um explosivo, matando (Player2).",
 			"tributos": 2,
 			"deaths": [2],
 			"killers": [1]
 		},
 		{
-			"text": "(Player1) arma um explosivo, matando (Player2), e (Player3).",
+			"text": "(Player1) Arma um explosivo, matando (Player2), e (Player3).",
 			"tributos": 3,
 			"deaths": [2, 3],
 			"killers": [1]
 		},
 		{
-			"text": "(Player1) arma um explosivo, matando (Player2), (Player3), e (Player4).",
+			"text": "(Player1) Arma um explosivo, matando (Player2), (Player3), e (Player4).",
 			"tributos": 4,
 			"deaths": [2, 3, 4],
 			"killers": [1]
 		},
 		{
-			"text": "(Player1) arma um explosivo, matando (Player2), (Player3), (Player4) e (Player5).",
+			"text": "(Player1) Arma um explosivo, matando (Player2), (Player3), (Player4) e (Player5).",
 			"tributos": 5,
 			"deaths": [2, 3, 4, 5],
 			"killers": [1]
 		},
 		{
-			"text": "(Player1) kills (Player2) as they try to run.",
+			"text": "(Player1) Mata (Player2) enquanto ele tenta fugir.",
 			"tributos": 2,
 			"deaths": [2],
 			"killers": [1]
 		},
 		{
-			"text": "(Player1) e (Player2) threaten a double suicide. It fails e they die.",
+			"text": "(Player1) e (Player2) Ameaçam um suicidio duplo mas eles falham e os dois morrem.",
 			"tributos": 2,
 			"deaths": [1, 2],
 			"killers": []
 		},
 		{
-			"text": "(Player1), (Player2), (Player3), e (Player4) form a suicide pact, killing themselves.",
+			"text": "(Player1), (Player2), (Player3), e (Player4) Formam um pacto suicida e se matam, mas (Player2) engana (Player4), (Player3) e (Player1) e não se mata.",
 			"tributos": 4,
-			"deaths": [1, 2, 3, 4],
+			"deaths": [1, 3, 4],
 			"killers": []
 		},
 		{
-			"text": "(Player1) kills (Player2) with a hatchet.",
+			"text": "(Player1) Mata (Player2) com um machadinho.",
 			"tributos": 2,
 			"deaths": [2],
 			"killers": [1]
 		},
 		{
-			"text": "(Player1) e (Player2) fight (Player3) e (Player4). (Player1) e (Player2) survive.",
+			"text": "(Player1) e (Player2) lutam com (Player3) e (Player4). (Player1) e (Player2) sobrevivem.",
 			"tributos": 4,
 			"deaths": [3, 4],
 			"killers": [1, 2]
 		},
 		{
-			"text": "(Player1) e (Player2) fight (Player3) e (Player4). (Player3) e (Player4) survive.",
+			"text": "(Player1) e (Player2) lutam com (Player3) e (Player4). (Player3) e (Player4) sobrevivem.",
 			"tributos": 4,
 			"deaths": [1, 2],
 			"killers": [3, 4]
 		},
 		{
-			"text": "(Player1) attacks (Player2), but (Player3) protects them, killing (Player1).",
+			"text": "(Player1) Ataca (Player2), mas (Player3) o defende, matando (Player1).",
 			"tributos": 3,
 			"deaths": [1],
 			"killers": [3]
 		},
 		{
-			"text": "(Player1) severely slices (Player2) with a sword.",
+			"text": "(Player1) Corta severamente (Player2) com uma espada.",
 			"tributos": 2,
 			"deaths": [2],
 			"killers": [1]
 		},
 		{
-			"text": "(Player1) strangles (Player2) with a rope.",
+			"text": "(Player1) Strangula (Player2) com uma corda.",
 			"tributos": 2,
 			"deaths": [2],
 			"killers": [1]
 		},
 		{
-			"text": "(Player1) kills (Player2) for their supplies.",
+			"text": "(Player1) Mata (Player2) e rouba seus suplimentos.",
 			"tributos": 2,
 			"deaths": [2],
 			"killers": [1]
 		},
 		{
-			"text": "(Player1) shoots an arrow at (Player2), but misses e kills (Player3) instead.",
+			"text": "(Player1) Tenta atirar uma flecha em (Player2), mas erra e mata (Player3).",
 			"tributos": 3,
 			"deaths": [3],
 			"killers": [1]
 		},
 		{
-			"text": "(Player1) shoots a poisonous blow dart into (Player2)'s neck, slowly killing them.",
+			"text": "(Player1) Atira um dardo venenoso no pescoço de (Player2), matando-o lentamente.",
 			"tributos": 2,
 			"deaths": [2],
 			"killers": [1]
 		},
 		{
-			"text": "(Player1) stabs (Player2) with a tree branch.",
+			"text": "(Player1) Esfaqueia (Player2) com um galho de árvore.",
 			"tributos": 2,
 			"deaths": [2],
 			"killers": [1]
 		},
 		{
-			"text": "(Player1) stabs (Player2) in the back with a trident.",
+			"text": "(Player1) Esfaqueia (Player2) nas costas com um tridente.",
 			"tributos": 2,
 			"deaths": [2],
 			"killers": [1]
 		},
 		{
-			"text": "(Player1), (Player2), e (Player3) get into a fight. (Player1) triumphantly kills them both.",
+			"text": "(Player1), (Player2), E (Player3) Entram em uma luta. (Player1) triunfantemente mata os dois.",
 			"tributos": 3,
 			"deaths": [2, 3],
 			"killers": [1]
 		},
 		{
-			"text": "(Player1), (Player2), e (Player3) get into a fight. (Player2) triumphantly kills them both.",
+			"text": "(Player1), (Player2), E (Player3) Entram em uma luta. (Player2) triunfantemente mata os dois.",
 			"tributos": 3,
 			"deaths": [1, 3],
 			"killers": [2]
 		},
 		{
-			"text": "(Player1), (Player2), e (Player3) get into a fight. (Player3) triumphantly kills them both.",
+			"text": "(Player1), (Player2), E (Player3) Entram em uma luta. (Player3) triunfantemente mata os dois.",
 			"tributos": 3,
 			"deaths": [1, 2],
 			"killers": [3]
 		},
 		{
-			"text": "(Player1) finds (Player2) hiding in the cornucopia e kills them.",
+			"text": "(Player1) Encontra (Player2) escondido na cornucópia e o mata.",
 			"tributos": 2,
 			"deaths": [2],
 			"killers": [1]
 		},
 		{
-			"text": "(Player1) finds (Player2) hiding in the cornucopia, but (Player2) kills them.",
+			"text": "(Player1) Encontra (Player2) escondido na cornucópia, mas (Player2) mata ele.",
 			"tributos": 2,
 			"deaths": [1],
 			"killers": [2]
 		},
 		{
-			"text": "(Player1) kills (Player2) with a sickle.",
+			"text": "(Player1) Mata (Player2) com uma foice.",
 			"tributos": 2,
 			"deaths": [2],
 			"killers": [1]
 		},
 		{
-			"text": "(Player1) e (Player2) fight for a bag. (Player1) strangles (Player2) with the straps e runs.",
+			"text": "(Player1) E (Player2) Lutam por uma bolsa. (Player1) Estrangula (Player2) com a alça da bolsa e foge.",
 			"tributos": 2,
 			"deaths": [2],
 			"killers": [1]
 		},
 		{
-			"text": "(Player1) e (Player2) fight for a bag. (Player2) strangles (Player1) with the straps e runs.",
+			"text": "(Player1) E (Player2) Lutam por uma bolsa. (Player2) Estranglua (Player1) com a alça da bolsa e foge.",
 			"tributos": 2,
 			"deaths": [1],
 			"killers": [2]
 		},
 		{
-			"text": "(Player1) repeatedly stabs (Player2) to death with sais.",
+			"text": "(Player1) Esfaqueia repetidamente (Player2) até a morte.",
 			"tributos": 2,
 			"deaths": [2],
 			"killers": [1]
