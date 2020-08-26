@@ -38,9 +38,9 @@ module.exports = class Util {
 		if (segundos) diff -= segundos * 1000;
 		
 		if (dias) {
-			if (horas && minutos) return `${dias} dias${dias > 1 ? 's' : ''}, ${horas} hora${horas > 1 ? 's' : ''} e ${minutos} minuto${minutos > 1 ? 's.' : '.'}`;
+			if (horas && minutos) return `${dias} dia${dias > 1 ? 's' : ''} e ${horas} hora${horas > 1 ? 's.' : '.'}`;
 
-			else return `${dias} dias${dias > 1 ? 's' : ''}${minutos ? `e ${minutos} minuto${minutos > 1 ? 's.' : '.'}` : `e ${horas} hora${horas > 1 ? 's.' : '.'}`}`;
+			else return `${dias} dia${dias > 1 ? 's' : ''}${minutos ? `e ${minutos} minuto${minutos > 1 ? 's.' : '.'}` : `e ${horas} hora${horas > 1 ? 's.' : '.'}`}`;
 		}
 		else {
 			if (horas) return `${horas} hora${horas > 1 ? 's' : ''}${minutos ? ` e ${minutos} minuto${minuto > 1 ? 's.' : '.'}` : '.'}`;
