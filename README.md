@@ -12,7 +12,7 @@
   </p>
 </div>
 
-Aqui vocês encontram a source do bot para Discord, Dyece
+Aqui vocês encontram a source do bot para Discord, Dyece<br>
 Deseja adiciona-lo ao seu servidor? clique [aqui](https://discord.com/api/oauth2/authorize?client_id=747606678954049577&permissions=8&scope=bot).
 
 Deseja falar com os desenvolvedores ou perguntar algo? entre [aqui](https://discord.gg/QUpr3ZR).
