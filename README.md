@@ -15,4 +15,8 @@
 Aqui vocês encontram a source do bot para Discord, Dyece<br>
 Deseja adiciona-lo ao seu servidor? clique [aqui](https://discord.com/api/oauth2/authorize?client_id=747606678954049577&permissions=8&scope=bot).
 
-Deseja falar com os desenvolvedores ou perguntar algo? entre [aqui](https://discord.gg/QUpr3ZR).
+> Deseja falar com os desenvolvedores ou perguntar algo? entre [aqui](https://discord.gg/QUpr3ZR). Reporte bugs clicando [aqui](https://github.com/Project-Dyece/Dyece/issues)<br><br> 
+
+
+
+Dyece é um bot simples do Discord, com comandos de economia, diversão e moderação, <b>Dyece irá trazer entretenimento para os membros de seu servidor</b>, <u>adicione ao seu servidor e divirta-se!</u>
