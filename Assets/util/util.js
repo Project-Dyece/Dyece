@@ -20,35 +20,34 @@ module.exports = class Util {
 			dataString += ` de ${mesesN[data.getMonth() + 1]}`;
 			dataString += ` de ${data.getFullYear()}`;
 			return dataString;
-		} else {
-			let dataString = `${data.getDate()}/${data.getMonth()}/${data.getFullYear()}`
+		}
+		else {
+			const dataString = `${data.getDate()}/${data.getMonth()}/${data.getFullYear()}`;
 			return dataString;
-		};
+		}
 	}
 
 	static diff(timeBase, time2) {
 		let diff = time2 - timeBase;
-		const dias = diff > 86400000 ? Math.floor(diff/86400000) : null;
+		const dias = diff > 86400000 ? Math.floor(diff / 86400000) : null;
 		if (dias) diff -= dias * 86400000;
-		const horas = diff > 3600000 ? Math.floor(diff/3600000) : null;
+		const horas = diff > 3600000 ? Math.floor(diff / 3600000) : null;
 		if (horas) diff -= horas * 3600000;
-		const minutos = diff > 60000 ? Math.floor(diff/60000) : null;
+		const minutos = diff > 60000 ? Math.floor(diff / 60000) : null;
 		if (minutos) diff -= minutos * 60000;
-		const segundos = diff > 1000 ? Math.floor(diff/1000) : null;
+		const segundos = diff > 1000 ? Math.floor(diff / 1000) : null;
 		if (segundos) diff -= segundos * 1000;
-		
+
 		if (dias) {
 			if (horas && minutos) return `${dias} dia${dias > 1 ? 's' : ''} e ${horas} hora${horas > 1 ? 's.' : '.'}`;
 
 			else return `${dias} dia${dias > 1 ? 's' : ''}${minutos ? `e ${minutos} minuto${minutos > 1 ? 's.' : '.'}` : `e ${horas} hora${horas > 1 ? 's.' : '.'}`}`;
 		}
-		else {
-			if (horas) return `${horas} hora${horas > 1 ? 's' : ''}${minutos ? ` e ${minutos} minuto${minuto > 1 ? 's.' : '.'}` : '.'}`;
+		else if (horas) return `${horas} hora${horas > 1 ? 's' : ''}${minutos ? ` e ${minutos} minuto${minuto > 1 ? 's.' : '.'}` : '.'}`;
 
-			else if (minutos) return `${minutos} minuto${minutos > 1 ? 's' : ''}${segundos ? `${segundos} segundo${segundos > 1 ? 's.' : '.'}` : '' }`;
+		else if (minutos) return `${minutos} minuto${minutos > 1 ? 's' : ''}${segundos ? `${segundos} segundo${segundos > 1 ? 's.' : '.'}` : '' }`;
 
-				else return `${segundos ? `${segundos} segundo${segundos > 1 ? 's.' : '.'}` : `${diff} milisegundos`}`; 
-		}	
+		else return `${segundos ? `${segundos} segundo${segundos > 1 ? 's.' : '.'}` : `${diff} milisegundos`}`; 	
 	}
 
 	static shuffle(array) {
@@ -110,7 +109,7 @@ module.exports = class Util {
 	static formatNumber(number, minimumFractionDigits = 0) {
 		return Number.parseFloat(number).toLocaleString(undefined, {
 			minimumFractionDigits,
-			maximumFractionDigits: 2
+			maximumFractionDigits: 2,
 		});
 	}
 
@@ -173,7 +172,7 @@ module.exports = class Util {
 		const color = {
 			r: Math.floor((lower.color.r * pctLower) + (upper.color.r * pctUpper)).toString(16).padStart(2, '0'),
 			g: Math.floor((lower.color.g * pctLower) + (upper.color.g * pctUpper)).toString(16).padStart(2, '0'),
-			b: Math.floor((lower.color.b * pctLower) + (upper.color.b * pctUpper)).toString(16).padStart(2, '0')
+			b: Math.floor((lower.color.b * pctLower) + (upper.color.b * pctUpper)).toString(16).padStart(2, '0'),
 		};
 		return `#${color.r}${color.g}${color.b}`;
 	}
@@ -202,13 +201,13 @@ module.exports = class Util {
 		if (guild) str = str.replace(inviteRegex, text);
 		if (bot) str = str.replace(botInvRegex, text);
 		return str;
-    }
-    
-    static stripMentions(str, { text = '[menção]' } = {}) {
-		str = str.replace(/@everyone/gi, text)
+	}
+
+	static stripMentions(str, { text = '[menção]' } = {}) {
+		str = str.replace(/@everyone/gi, text);
 		str = str.replace(mentionRegex, text);
 		return str;
-    }
+	}
 
 	static async verify(channel, user, { time = 30000, extraYes = [], extraNo = [] } = {}) {
 		const filter = res => {
@@ -218,7 +217,7 @@ module.exports = class Util {
 		};
 		const verify = await channel.awaitMessages(filter, {
 			max: 1,
-			time
+			time,
 		});
 		if (!verify.size) return 0;
 		const choice = verify.first().content.toLowerCase();
@@ -229,9 +228,7 @@ module.exports = class Util {
 
 	static async awaitPlayers(msg, max, min = 1) {
 		if (max === 1) return [msg.author.id];
-		await msg.say(
-			`Você precisa de pelomenos mais ${min - 1} jogador${min - 1 === 1 ? '' : 'es'} (no máximo ${max - 1}). Para participar, digite \`participar\`.`
-		);
+		await msg.say(`Você precisa de pelomenos mais ${min - 1} jogador${min - 1 === 1 ? '' : 'es'} (no máximo ${max - 1}). Para participar, digite \`participar\`.`);
 		const joined = [];
 		joined.push(msg.author.id);
 		const filter = res => {

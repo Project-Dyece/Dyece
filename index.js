@@ -93,4 +93,4 @@ client
 
 
 // login && token
-client.login('NzQ3NjA2Njc4OTU0MDQ5NTc3.X0RU-g.YGRRPrIG83ooBcy4Z_ehrHgC9Zo');
+client.login(process.env.DISCORD_AUTH_TOKEN);
