@@ -4,7 +4,7 @@
   "description": "Um bot feito com bastante esforço e carinho",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest",
     "start": "node index.js"
   },
   "keywords": [],
@@ -29,5 +29,8 @@
   "bugs": {
     "url": "https://github.com/Project-Dyece/BETA/issues"
   },
-  "homepage": "https://github.com/Project-Dyece/BETA#readme"
+  "homepage": "https://github.com/Project-Dyece/BETA#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
 }
