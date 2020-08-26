@@ -7,7 +7,7 @@
   <p>
     <a href="https://discord.gg/QUpr3ZR"><img src="https://img.shields.io/discord/747643336185348268?color=7289da&label=servidor&logo=discord&logoColor=white" alt="Discord server" /></a>
     <a href="https://david-dm.org/Project-Dyece/Dyece"><img src="https://img.shields.io/david/Project-Dyece/Dyece.svg?maxAge=3600&label=dependencias" alt="Dependências" /></a>
-    <a href="http://mpago.la/1eRoTD2"><img src="https://img.shields.io/badge/doar-MercPago-00ced1" alt="MercadoPago" /></a>
+    <a href="http://mpago.la/1eRoTD2"><img src="https://img.shields.io/badge/doar-MercadoPago-00ced1" alt="MercadoPago" /></a>
     <a href="https://discord.com/api/oauth2/authorize?client_id=747606678954049577&permissions=8&scope=bot"><img src="https://img.shields.io/badge/convidar-bot-yellow" alt="Convite" /></a>
   </p>
   <i>Logo feita por Call#0615</i><br>
