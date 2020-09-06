@@ -6,10 +6,10 @@ const status = {
 };
 
 const activities = {
-	PLAYING: 'Jogando',
-	WATCHING: 'Assistindo',
-	LISTENING: 'Ouvindo',
-	STREAMING: 'Transmitindo',
+	PLAYING: '🎮 - Jogando',
+	WATCHING: '⏯️ - Assistindo',
+	LISTENING: '🎧 - Ouvindo',
+	STREAMING: '<:stream:752241047698145382> - Transmitindo',
 	CUSTOM_STATUS: 'Status customizado'
 };
 
