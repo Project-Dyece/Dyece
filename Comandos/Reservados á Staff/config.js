@@ -22,7 +22,7 @@ module.exports = class config extends Command {
         {
           key: 'nome',
           prompt: 'valor para a configuração',
-          type: 'Boolean',
+          type: 'boolean',
           default: '',
 				}
 			],
