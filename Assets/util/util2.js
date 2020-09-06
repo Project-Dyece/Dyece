@@ -1,7 +1,7 @@
 const status = {
-	online: 'Disponível/Online',
-	idle: 'Ausente',
-	dnd: 'Não perturbe/Indisponível',
+	online: '<:online:752237028510531594> - Disponível/Online',
+	idle: '<:idle:752237028220862618> - Ausente',
+	dnd: '<:dnd:752237028409868359> - Não perturbe/Indisponível',
 	offline: 'Offline/Invisível'
 };
 
