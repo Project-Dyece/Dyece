@@ -2,7 +2,7 @@ const status = {
 	online: '<:online:752237028510531594> - Disponível/Online',
 	idle: '<:idle:752237028220862618> - Ausente',
 	dnd: '<:dnd:752237028409868359> - Não perturbe/Indisponível',
-	offline: 'Offline/Invisível'
+	offline: '<:offline:752238988173246468> - Offline/Invisível'
 };
 
 const activities = {
