@@ -26,12 +26,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Project-Dyece/BETA.git"
+    "url": "git+https://github.com/Project-Dyece/Dyece.git"
   },
   "bugs": {
-    "url": "https://github.com/Project-Dyece/BETA/issues"
+    "url": "https://github.com/Project-Dyece/Dyece/issues"
   },
-  "homepage": "https://github.com/Project-Dyece/BETA#readme",
+  "homepage": "https://github.com/Project-Dyece/Dyece#readme",
   "devDependencies": {
     "eslint": "^7.7.0",
     "eslint-config-airbnb-base": "^14.2.0",
