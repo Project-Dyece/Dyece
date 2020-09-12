@@ -58,11 +58,11 @@ module.exports = class AjudaCommand extends Command {
 				}
 				return messages;
 			} else if(commands.length > 15) {
-				return msg.embed({ color: '#c22727', description: '<a:cross_gif:738900572664496169> | Multiplos comandos encontrados, por favor seja mais específico.' });
+				return msg.embed({ color: '#c22727', description: '<a:negado:753765301212151820> | Multiplos comandos encontrados, por favor seja mais específico.' });
 			} else if(commands.length > 1) {
-				return msg.embed({ color: '#c22727', description: `<a:cross_gif:738900572664496169> | ${disambiguation(commands, 'comandos')}` });
+				return msg.embed({ color: '#c22727', description: `<a:negado:753765301212151820> | ${disambiguation(commands, 'comandos')}` });
 			} else {
-				return msg.embed({ color: '#c22727', description: `<a:cross_gif:738900572664496169> | Não consegui identificar o comando... Utilize ${msg.usage(
+				return msg.embed({ color: '#c22727', description: `<a:negado:753765301212151820> | Não consegui identificar o comando... Utilize ${msg.usage(
 						null, msg.channel.type === 'dm' ? null : undefined, msg.channel.type === 'dm' ? null : undefined
 					)} para ver uma lista com todos.` });
 			}
@@ -90,9 +90,9 @@ module.exports = class AjudaCommand extends Command {
 						`).join('\n\n')
 					}
 				`, { split: true }));
-				if(msg.channel.type !== 'dm') messages.push(await msg.embed({ color: '#24960e', description: '<a:checkmark_gif:738900367814819940> | Mandei no privado.' }));
+				if(msg.channel.type !== 'dm') messages.push(await msg.embed({ color: '#24960e', description: '<a:Verificado:753765401090850866> | Mandei no privado.' }));
 			} catch(err) {
-				messages.push(await msg.embed({ color: '#c22727', description: '<a:cross_gif:738900572664496169> | Não consegui mandar no privado, você provavelmente tem ele fechado :/' }));
+				messages.push(await msg.embed({ color: '#c22727', description: '<a:negado:753765301212151820> | Não consegui mandar no privado, você provavelmente tem ele fechado :/' }));
 			}
 			return messages;
 		}
