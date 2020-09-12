@@ -1,5 +1,4 @@
-<div align="center">
-  <br />
+
   <p>
     <a href="https://github.com/Project-Dyece/Dyece"><img src="https://cdn.discordapp.com/attachments/723701206324871228/748303088284074004/4_copia_2.png" width="120" alt="Dyece" /></a>
   </p>
