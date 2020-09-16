@@ -10,7 +10,7 @@
     <a href="http://mpago.la/1eRoTD2"><img src="https://img.shields.io/badge/doar-MercadoPago-00ced1" alt="MercadoPago" /></a>
     <a href="https://discord.com/api/oauth2/authorize?client_id=747606678954049577&permissions=8&scope=bot"><img src="https://img.shields.io/badge/convidar-bot-yellow" alt="Convite" /></a>
   </p>
-  <i>Logo feita por Call#0615</i><br>
+  <i>Logo feita por Call#0615 - 398852531259965440</i><br>
 </div>
 
 Aqui vocês encontram a source do bot para Discord, Dyece<br>
