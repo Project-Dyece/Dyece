@@ -1,4 +1,5 @@
 const { MessageEmbed } = require("discord.js");
+const { Command } = require('../../CommandoV12/src/index.js');
 
 module.exports.run = async (bot, message, args) => {
     const embed = new MessageEmbed()
