@@ -41,5 +41,5 @@ exports.help = {
     nome: "avatar",
     descrição: "Mostra o avatar",
     uso: "avatar [ID, MENÇÃO]",
-    categoria: "Outros"
+    categoria: "Utilidades"
 }
